@@ -1,0 +1,19 @@
+id,variable,group,prenatal,birth,3y,5-8y
+1,OPE,Chem. Mix.,1,1,1,1
+2,Glx,Brain Metabolite,1,0,0,0
+3,caudalmiddlefrontal (Vol.),Volume,0,1,0,0
+4,lateraloccipital (Vol.),Volume,0,0,1,0
+5,lateralorbitofrontal (Vol.),Volume,0,1,0,0
+6,paracentral (Vol.),Volume,1,1,1,0
+7,parstriangularis (Vol.),Volume,0,0,0,1
+8,pericalcarine (Vol.),Volume,0,0,1,1
+9,rh_caudalanteriorcingulate (Vol.),Volume,0,1,0,0
+10,insula (CT),Cortical Thickness,0,1,0,0
+11,lh_posteriorcingulate (CT),Cortical Thickness,0,0,0,1
+12,paracentral (CT),Cortical Thickness,0,0,1,0
+13,precentral (CT),Cortical Thickness,0,0,1,0
+14,rh_frontalpole (CT),Cortical Thickness,0,0,0,1
+15,CC_Central,Subcortical Volume,0,0,1,0
+16,choroid_plexus,Subcortical Volume,0,0,0,1
+17,Pegboard_DH_Drops,Neurobehavior,0,0,0,1
+18,Pegboard_NDH_Drops,Neurobehavior,0,0,0,1

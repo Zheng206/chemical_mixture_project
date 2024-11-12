@@ -1,0 +1,14 @@
+id,variable,group,birth,3y,prenatal,5-8y
+1,OPE,Chem. Mix.,1,1,1,1
+2,caudalmiddlefrontal (Vol.),Motor,1,0,0,0
+3,lateraloccipital (Vol.),Vision,0,1,0,0
+4,lateralorbitofrontal (Vol.),Cognition,1,0,0,0
+5,paracentral (Vol.),Motor,1,1,1,0
+6,parstriangularis (Vol.),Language,0,0,0,1
+7,pericalcarine (Vol.),Vision,0,1,0,1
+8,rh_caudalanteriorcingulate (Vol.),Cognition,1,0,0,0
+9,insula (CT),Cognition,1,0,0,0
+10,lh_posteriorcingulate (CT),Cognition,0,0,0,1
+11,paracentral (CT),Motor,0,1,0,0
+12,precentral (CT),Motor,0,1,0,0
+13,rh_frontalpole (CT),Cognition,0,0,0,1

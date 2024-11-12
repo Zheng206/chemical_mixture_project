@@ -1,0 +1,11 @@
+name: network_app
+title: network_app
+username:
+account: zren0723
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9421411
+bundleId: 8970756
+url: https://zren0723.shinyapps.io/network_app/
+asMultiple: FALSE
+asStatic: FALSE

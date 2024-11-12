@@ -1,0 +1,7 @@
+id,variable,group,status
+1,OPE,Chem. Mix.,pre
+2,parstriangularis (Vol.),Volume,pre
+3,Pegboard_DH_Drops,Neurobehavior,pre
+1,OPE,Chem. Mix.,post
+2,rh_parstriangularis (Vol.),Volume,post
+3,Pegboard_DH_Drops,Neurobehavior,post

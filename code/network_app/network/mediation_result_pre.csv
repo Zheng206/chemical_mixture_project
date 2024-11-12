@@ -1,0 +1,3 @@
+y,mediator,type,OPE,window,model,indirect_effect,indirect_effect_CI,mediator_effect,mediator_effect_CI,direct_effect,direct_effect_CI,total_effect,total_effect_CI,agreed
+Pegboard_DH_Drops,parstriangularis,CV,BCETP,5-8y,mi,0.062,"(0.002 , 0.166)",-0.14,"(-0.257 , -0.023)",0.158,"(-0.074 , 0.39)",0.22,"(-0.002 , 0.455)",agreed
+Pegboard_DH_Drops,parstriangularis,CV,OPE,5-8y,qg,0.036,"(0.001 , 0.109)",-0.085,"(-0.149 , -0.021)",0.082,"(-0.041 , 0.205)",0.118,"(-0.005 , 0.261)",agreed

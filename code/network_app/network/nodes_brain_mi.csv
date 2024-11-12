@@ -1,0 +1,16 @@
+id,variable,group,birth,3y,prenatal,5-8y
+1,BCEP,Chem. Mix.,1,1,1,1
+2,DPHP,Chem. Mix.,0,1,0,1
+3,BDCIPP,Chem. Mix.,1,1,0,1
+4,caudalmiddlefrontal (Vol.),Frontal Lobe,1,0,0,0
+5,lateraloccipital (Vol.),Occipital Lobe,0,1,0,0
+6,lateralorbitofrontal (Vol.),Frontal Lobe,1,0,0,0
+7,paracentral (Vol.),Parietal Lobe,1,1,1,0
+8,parstriangularis (Vol.),Frontal Lobe,0,0,0,1
+9,pericalcarine (Vol.),Occipital Lobe,0,1,0,1
+10,rh_caudalanteriorcingulate (Vol.),Limbic Lobe,1,0,0,0
+11,insula (CT),Insular cortex,1,0,0,0
+12,lh_posteriorcingulate (CT),Limbic Lobe,0,0,0,1
+13,paracentral (CT),Parietal Lobe,0,1,0,0
+14,precentral (CT),Frontal Lobe,0,1,0,0
+15,rh_frontalpole (CT),Frontal Lobe,0,0,0,1
